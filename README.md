@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/InVisionApp/kit/raw/master/media/kit-logo-horz-sm.png">
+  <a href="https://invisionapp.github.io/kit/">
+    <img src="https://github.com/InVisionApp/kit/raw/master/media/kit-logo-horz-sm.png">
+  </a>
 </p>
 
 # kit
