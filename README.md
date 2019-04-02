@@ -6,7 +6,7 @@
 
 # kit
 
-*[DEPRECATED] Thanks for using these packages, but we will no longer support them*
+**[DEPRECATED] Thanks for using these packages, but we will no longer support them.**
 
 The `kit` suite is a series of components that when used together can achieve a continuous deployment workflow for countless Kubernetes clusters. They can be used as npm modules to orchestrate your own pipeline or they can be easily integrated into a [Codeship Docker](http://pages.codeship.com/docker) pipeline.
 
